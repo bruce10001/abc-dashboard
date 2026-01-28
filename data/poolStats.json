@@ -1414,5 +1414,869 @@
     "version": "v2",
     "stakerNumber": 179,
     "totalPOS": 7527
+  },
+  {
+    "snapshotDate": "20250201",
+    "epochNumber": 115167827,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 695,
+    "totalPOS": 76456
+  },
+  {
+    "snapshotDate": "20250201",
+    "epochNumber": 115167827,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 147,
+    "totalPOS": 6672
+  },
+  {
+    "snapshotDate": "20250201",
+    "epochNumber": 115167827,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 177,
+    "totalPOS": 7324
+  },
+  {
+    "snapshotDate": "20250211",
+    "epochNumber": 115932109,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 700,
+    "totalPOS": 77645
+  },
+  {
+    "snapshotDate": "20250211",
+    "epochNumber": 115932109,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 146,
+    "totalPOS": 6569
+  },
+  {
+    "snapshotDate": "20250211",
+    "epochNumber": 115932109,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 176,
+    "totalPOS": 6909
+  },
+  {
+    "snapshotDate": "20250221",
+    "epochNumber": 116696123,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 699,
+    "totalPOS": 77741
+  },
+  {
+    "snapshotDate": "20250221",
+    "epochNumber": 116696123,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 147,
+    "totalPOS": 6579
+  },
+  {
+    "snapshotDate": "20250221",
+    "epochNumber": 116696123,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 179,
+    "totalPOS": 7311
+  },
+  {
+    "snapshotDate": "20250301",
+    "epochNumber": 117305181,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 703,
+    "totalPOS": 78871
+  },
+  {
+    "snapshotDate": "20250301",
+    "epochNumber": 117305181,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 146,
+    "totalPOS": 6584
+  },
+  {
+    "snapshotDate": "20250301",
+    "epochNumber": 117305181,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 177,
+    "totalPOS": 7563
+  },
+  {
+    "snapshotDate": "20250311",
+    "epochNumber": 118054682,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 705,
+    "totalPOS": 81747
+  },
+  {
+    "snapshotDate": "20250311",
+    "epochNumber": 118054682,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 145,
+    "totalPOS": 6578
+  },
+  {
+    "snapshotDate": "20250311",
+    "epochNumber": 118054681,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 173,
+    "totalPOS": 7571
+  },
+  {
+    "snapshotDate": "20250321",
+    "epochNumber": 118801594,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 705,
+    "totalPOS": 83927
+  },
+  {
+    "snapshotDate": "20250321",
+    "epochNumber": 118801594,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 145,
+    "totalPOS": 6783
+  },
+  {
+    "snapshotDate": "20250321",
+    "epochNumber": 118801594,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 172,
+    "totalPOS": 7450
+  },
+  {
+    "snapshotDate": "20250401",
+    "epochNumber": 119610952,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 707,
+    "totalPOS": 84204
+  },
+  {
+    "snapshotDate": "20250401",
+    "epochNumber": 119610952,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 147,
+    "totalPOS": 6918
+  },
+  {
+    "snapshotDate": "20250401",
+    "epochNumber": 119610952,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 172,
+    "totalPOS": 7449
+  },
+  {
+    "snapshotDate": "20250411",
+    "epochNumber": 120337588,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 706,
+    "totalPOS": 82259
+  },
+  {
+    "snapshotDate": "20250411",
+    "epochNumber": 120337589,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 147,
+    "totalPOS": 6816
+  },
+  {
+    "snapshotDate": "20250411",
+    "epochNumber": 120337589,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 175,
+    "totalPOS": 7340
+  },
+  {
+    "snapshotDate": "20250421",
+    "epochNumber": 121034372,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 703,
+    "totalPOS": 82831
+  },
+  {
+    "snapshotDate": "20250421",
+    "epochNumber": 121034372,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 148,
+    "totalPOS": 6878
+  },
+  {
+    "snapshotDate": "20250421",
+    "epochNumber": 121034374,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 171,
+    "totalPOS": 7277
+  },
+  {
+    "snapshotDate": "20250501",
+    "epochNumber": 121722568,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 705,
+    "totalPOS": 82344
+  },
+  {
+    "snapshotDate": "20250501",
+    "epochNumber": 121722568,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 145,
+    "totalPOS": 6629
+  },
+  {
+    "snapshotDate": "20250501",
+    "epochNumber": 121722568,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 166,
+    "totalPOS": 7142
+  },
+  {
+    "snapshotDate": "20250511",
+    "epochNumber": 122392942,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 702,
+    "totalPOS": 83008
+  },
+  {
+    "snapshotDate": "20250511",
+    "epochNumber": 122392942,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 146,
+    "totalPOS": 6661
+  },
+  {
+    "snapshotDate": "20250511",
+    "epochNumber": 122392942,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 165,
+    "totalPOS": 7138
+  },
+  {
+    "snapshotDate": "20250521",
+    "epochNumber": 123046125,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 681,
+    "totalPOS": 79207
+  },
+  {
+    "snapshotDate": "20250521",
+    "epochNumber": 123046126,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 146,
+    "totalPOS": 6504
+  },
+  {
+    "snapshotDate": "20250521",
+    "epochNumber": 123046126,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 164,
+    "totalPOS": 7100
+  },
+  {
+    "snapshotDate": "20250601",
+    "epochNumber": 123781696,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 681,
+    "totalPOS": 85711
+  },
+  {
+    "snapshotDate": "20250601",
+    "epochNumber": 123781696,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 145,
+    "totalPOS": 6631
+  },
+  {
+    "snapshotDate": "20250601",
+    "epochNumber": 123781696,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 160,
+    "totalPOS": 6999
+  },
+  {
+    "snapshotDate": "20250611",
+    "epochNumber": 124464431,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 686,
+    "totalPOS": 83705
+  },
+  {
+    "snapshotDate": "20250611",
+    "epochNumber": 124464431,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 148,
+    "totalPOS": 6673
+  },
+  {
+    "snapshotDate": "20250611",
+    "epochNumber": 124464431,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 159,
+    "totalPOS": 6835
+  },
+  {
+    "snapshotDate": "20250621",
+    "epochNumber": 125130338,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 703,
+    "totalPOS": 83248
+  },
+  {
+    "snapshotDate": "20250621",
+    "epochNumber": 125130338,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 154,
+    "totalPOS": 6707
+  },
+  {
+    "snapshotDate": "20250621",
+    "epochNumber": 125130338,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 156,
+    "totalPOS": 6926
+  },
+  {
+    "snapshotDate": "20250701",
+    "epochNumber": 125785668,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 721,
+    "totalPOS": 86910
+  },
+  {
+    "snapshotDate": "20250701",
+    "epochNumber": 125785668,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 158,
+    "totalPOS": 9066
+  },
+  {
+    "snapshotDate": "20250701",
+    "epochNumber": 125785668,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 155,
+    "totalPOS": 7017
+  },
+  {
+    "snapshotDate": "20250711",
+    "epochNumber": 126420477,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 724,
+    "totalPOS": 91161
+  },
+  {
+    "snapshotDate": "20250711",
+    "epochNumber": 126420477,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 160,
+    "totalPOS": 11465
+  },
+  {
+    "snapshotDate": "20250711",
+    "epochNumber": 126420477,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 154,
+    "totalPOS": 7181
+  },
+  {
+    "snapshotDate": "20250721",
+    "epochNumber": 127050576,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 734,
+    "totalPOS": 90214
+  },
+  {
+    "snapshotDate": "20250721",
+    "epochNumber": 127050576,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 157,
+    "totalPOS": 10491
+  },
+  {
+    "snapshotDate": "20250721",
+    "epochNumber": 127050576,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 156,
+    "totalPOS": 6778
+  },
+  {
+    "snapshotDate": "20250801",
+    "epochNumber": 127727186,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 731,
+    "totalPOS": 87398
+  },
+  {
+    "snapshotDate": "20250801",
+    "epochNumber": 127727186,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 186,
+    "totalPOS": 8904
+  },
+  {
+    "snapshotDate": "20250801",
+    "epochNumber": 127727186,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 197,
+    "totalPOS": 6656
+  },
+  {
+    "snapshotDate": "20250811",
+    "epochNumber": 128348683,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 735,
+    "totalPOS": 90086
+  },
+  {
+    "snapshotDate": "20250811",
+    "epochNumber": 128348683,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 199,
+    "totalPOS": 8965
+  },
+  {
+    "snapshotDate": "20250811",
+    "epochNumber": 128348683,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 210,
+    "totalPOS": 6804
+  },
+  {
+    "snapshotDate": "20250821",
+    "epochNumber": 128994735,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 733,
+    "totalPOS": 88164
+  },
+  {
+    "snapshotDate": "20250821",
+    "epochNumber": 128994735,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 201,
+    "totalPOS": 8927
+  },
+  {
+    "snapshotDate": "20250821",
+    "epochNumber": 128994735,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 219,
+    "totalPOS": 6975
+  },
+  {
+    "snapshotDate": "20250901",
+    "epochNumber": 129722706,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 741,
+    "totalPOS": 87951
+  },
+  {
+    "snapshotDate": "20250901",
+    "epochNumber": 129722706,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 201,
+    "totalPOS": 8940
+  },
+  {
+    "snapshotDate": "20250901",
+    "epochNumber": 129722706,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 213,
+    "totalPOS": 7090
+  },
+  {
+    "snapshotDate": "20250911",
+    "epochNumber": 130384993,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 734,
+    "totalPOS": 88874
+  },
+  {
+    "snapshotDate": "20250911",
+    "epochNumber": 130384993,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 205,
+    "totalPOS": 9172
+  },
+  {
+    "snapshotDate": "20250911",
+    "epochNumber": 130384993,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 223,
+    "totalPOS": 8008
+  },
+  {
+    "snapshotDate": "20250921",
+    "epochNumber": 131005004,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 729,
+    "totalPOS": 87478
+  },
+  {
+    "snapshotDate": "20250921",
+    "epochNumber": 131005004,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 205,
+    "totalPOS": 9214
+  },
+  {
+    "snapshotDate": "20250921",
+    "epochNumber": 131005004,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 232,
+    "totalPOS": 8247
+  },
+  {
+    "snapshotDate": "20251001",
+    "epochNumber": 131636214,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 726,
+    "totalPOS": 86944
+  },
+  {
+    "snapshotDate": "20251001",
+    "epochNumber": 131636214,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 205,
+    "totalPOS": 9195
+  },
+  {
+    "snapshotDate": "20251001",
+    "epochNumber": 131636214,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 232,
+    "totalPOS": 8545
+  },
+  {
+    "snapshotDate": "20251011",
+    "epochNumber": 132306843,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 718,
+    "totalPOS": 86955
+  },
+  {
+    "snapshotDate": "20251011",
+    "epochNumber": 132306842,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 206,
+    "totalPOS": 8948
+  },
+  {
+    "snapshotDate": "20251011",
+    "epochNumber": 132306842,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 236,
+    "totalPOS": 9014
+  },
+  {
+    "snapshotDate": "20251021",
+    "epochNumber": 132981410,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 731,
+    "totalPOS": 88658
+  },
+  {
+    "snapshotDate": "20251021",
+    "epochNumber": 132981409,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 211,
+    "totalPOS": 9238
+  },
+  {
+    "snapshotDate": "20251021",
+    "epochNumber": 132981409,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 242,
+    "totalPOS": 8617
+  },
+  {
+    "snapshotDate": "20251101",
+    "epochNumber": 133699827,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 724,
+    "totalPOS": 88370
+  },
+  {
+    "snapshotDate": "20251101",
+    "epochNumber": 133699827,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 216,
+    "totalPOS": 9408
+  },
+  {
+    "snapshotDate": "20251101",
+    "epochNumber": 133699827,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 247,
+    "totalPOS": 8753
+  },
+  {
+    "snapshotDate": "20251111",
+    "epochNumber": 134382010,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 731,
+    "totalPOS": 89343
+  },
+  {
+    "snapshotDate": "20251111",
+    "epochNumber": 134382010,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 218,
+    "totalPOS": 9342
+  },
+  {
+    "snapshotDate": "20251111",
+    "epochNumber": 134382010,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 253,
+    "totalPOS": 9978
+  },
+  {
+    "snapshotDate": "20251121",
+    "epochNumber": 135067222,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 728,
+    "totalPOS": 89842
+  },
+  {
+    "snapshotDate": "20251121",
+    "epochNumber": 135067222,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 214,
+    "totalPOS": 9618
+  },
+  {
+    "snapshotDate": "20251121",
+    "epochNumber": 135067222,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 254,
+    "totalPOS": 10563
+  },
+  {
+    "snapshotDate": "20251201",
+    "epochNumber": 135757732,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 732,
+    "totalPOS": 89308
+  },
+  {
+    "snapshotDate": "20251201",
+    "epochNumber": 135757732,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 213,
+    "totalPOS": 9691
+  },
+  {
+    "snapshotDate": "20251201",
+    "epochNumber": 135757732,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 256,
+    "totalPOS": 11014
+  },
+  {
+    "snapshotDate": "20251211",
+    "epochNumber": 136441549,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 727,
+    "totalPOS": 88376
+  },
+  {
+    "snapshotDate": "20251211",
+    "epochNumber": 136441549,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 216,
+    "totalPOS": 10654
+  },
+  {
+    "snapshotDate": "20251211",
+    "epochNumber": 136441549,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 255,
+    "totalPOS": 11261
+  },
+  {
+    "snapshotDate": "20251221",
+    "epochNumber": 137133538,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 726,
+    "totalPOS": 93233
+  },
+  {
+    "snapshotDate": "20251221",
+    "epochNumber": 137133538,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 221,
+    "totalPOS": 10920
+  },
+  {
+    "snapshotDate": "20251221",
+    "epochNumber": 137133538,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 253,
+    "totalPOS": 9929
+  },
+  {
+    "snapshotDate": "20260101",
+    "epochNumber": 137900435,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 729,
+    "totalPOS": 92322
+  },
+  {
+    "snapshotDate": "20260101",
+    "epochNumber": 137900435,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 218,
+    "totalPOS": 9857
+  },
+  {
+    "snapshotDate": "20260101",
+    "epochNumber": 137900435,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 255,
+    "totalPOS": 9948
+  },
+  {
+    "snapshotDate": "20260111",
+    "epochNumber": 138599074,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 729,
+    "totalPOS": 90228
+  },
+  {
+    "snapshotDate": "20260111",
+    "epochNumber": 138599074,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 218,
+    "totalPOS": 9005
+  },
+  {
+    "snapshotDate": "20260111",
+    "epochNumber": 138599074,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 258,
+    "totalPOS": 10124
+  },
+  {
+    "snapshotDate": "20260121",
+    "epochNumber": 139359828,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 722,
+    "totalPOS": 89140
+  },
+  {
+    "snapshotDate": "20260121",
+    "epochNumber": 139359828,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 217,
+    "totalPOS": 9432
+  },
+  {
+    "snapshotDate": "20260121",
+    "epochNumber": 139359828,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 260,
+    "totalPOS": 10310
   }
 ]
