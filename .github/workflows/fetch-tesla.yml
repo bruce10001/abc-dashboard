@@ -1,6 +1,9 @@
 name: Fetch Tesla Snapshot
 
 on:
+  push:
+    paths:
+      - '.github/workflows/fetch-tesla.yml'  # Only trigger on changes to this file
   schedule:
     - cron: '0 0 * * *'  # Run daily at midnight UTC, script determines if it's a qualified date
   workflow_dispatch:  # Allow manual trigger
