@@ -1,0 +1,9 @@
+{
+  "coreUrl": "https://main.confluxrpc.com",
+  "networkId": 1029,
+  "espaceABCContractAddr": "0x905f2202003453006eaf975699545f2e909079b8",
+  "ABCV2PoolEspaceContractAddr": "0xE9af34e140Ab2a30E1eC1F39917AA506504B8c32",
+  "ABCV1EspacePoolContractAddr": "0xb6Eb7AA86f3886b6eDc0fC1C826221b1fb26e437",
+  "ABCV1CorePoolContractAddr": "cfx:accpx9uxky39pg1hzav757vdej95w1kbcp13d0hvm7",
+  "eSpaceUrl": "https://evm.confluxrpc.com"
+}

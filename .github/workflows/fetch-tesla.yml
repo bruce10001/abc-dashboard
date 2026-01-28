@@ -1,0 +1,45 @@
+name: Fetch Tesla Snapshot
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight UTC, script determines if it's a qualified date
+  workflow_dispatch:  # Allow manual trigger
+    inputs:
+      date:
+        description: 'Snapshot date (YYYYMMDD format, optional - defaults to today)'
+        required: false
+        type: string
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch Tesla voting snapshot
+        run: |
+          if [ -n "${{ inputs.date }}" ]; then
+            node scripts/v2tesla.js ${{ inputs.date }}
+          else
+            node scripts/v2tesla.js
+          fi
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update Tesla snapshot [skip ci]"
+          file_pattern: data/*.json
+          commit_author: "GitHub Actions <actions@github.com>"
