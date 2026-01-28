@@ -26,7 +26,7 @@ export default defineConfig({
       },
     },
   ],
-  base: './',
+  base: '/abc-dashboard/',
   build: {
     outDir: 'dist',
   },
