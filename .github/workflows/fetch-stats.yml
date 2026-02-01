@@ -42,3 +42,4 @@ jobs:
           commit_message: "chore: update pool stats data [skip ci]"
           file_pattern: data/*.json
           commit_author: "GitHub Actions <actions@github.com>"
+          branch: main
