@@ -29,10 +29,26 @@ function StatsPage() {
   }, []);
 
   const chartData = useMemo(() => {
-    let filteredList = jsonList;
+    // Fix v1 core totalPOS by subtracting v1 espace totalPOS (which is already included)
+    const v1EspacePOSByDate = new Map<string, number>();
+    jsonList.forEach((item) => {
+      if (item.version === "v1" && item.chain === "espace") {
+        v1EspacePOSByDate.set(item.snapshotDate, item.totalPOS);
+      }
+    });
+
+    const correctedList = jsonList.map((item) => {
+      if (item.version === "v1" && item.chain === "core") {
+        const espacePOS = v1EspacePOSByDate.get(item.snapshotDate) ?? 0;
+        return { ...item, totalPOS: item.totalPOS - espacePOS };
+      }
+      return item;
+    });
+
+    let filteredList = correctedList;
 
     if (selectedValue !== "All") {
-      filteredList = jsonList.filter(
+      filteredList = correctedList.filter(
         (item) => `${item.version} ${item.chain}` === selectedValue,
       );
     }
