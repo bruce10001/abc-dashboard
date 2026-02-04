@@ -30427,5 +30427,1818 @@
     "posAmount": 1000,
     "abcAmount": 0,
     "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x7CF8a467e3e878095DB50312e5212A3881E13B16",
+    "posAmount": 5000,
+    "abcAmount": 583,
+    "vote": 1
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xf97E35625D316017Eb05f5afba4F649854fBF8dC",
+    "posAmount": 11000,
+    "abcAmount": 36,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xd440562e9aF48AEe6731A71e960b77Ccde30Cf82",
+    "posAmount": 72000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x0ba56cE1E01F53E4D399A1c48953ccDEf64737c7",
+    "posAmount": 50000,
+    "abcAmount": 4799,
+    "vote": 10
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xba295E8c5545634970773689B2e694cD953F5B47",
+    "posAmount": 10000,
+    "abcAmount": 8,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x458e1aD54Fe72Ed59B3A5B189AdbE9c74984FfDB",
+    "posAmount": 48000,
+    "abcAmount": 14,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x054cF046ec8F887DC50Cd8a80Aa0fe5718CAf5cA",
+    "posAmount": 15000,
+    "abcAmount": 636,
+    "vote": 3
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x49C79b3F2653A6b3ab5537550d8e0747bBa27366",
+    "posAmount": 257000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x8D95E9436dc7d605Ba13fbFc98f28C42a28e2bd4",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xFB443bB8d05F994A116d2955A2C623E7D5725a4b",
+    "posAmount": 254000,
+    "abcAmount": 9413,
+    "vote": 50
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2d87A05Fa85c4E22bDDF17C948Ad023997550c0b",
+    "posAmount": 4000,
+    "abcAmount": 5,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x3A821Bc046d466d025b59546cFbF5b7e3C3CeD47",
+    "posAmount": 175000,
+    "abcAmount": 4306,
+    "vote": 22
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x6EFBe7446C0bFd737C75FD17449775390040c59a",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x0E4119609d8D38D70a6Cc659bC8A7e9F7d639925",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xF7e77dDE7a83b4a9153552D8dEd1c3d35DB153A1",
+    "posAmount": 54000,
+    "abcAmount": 1904,
+    "vote": 10
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xf34A7e78c82492A8a959C87b691963F484237D5f",
+    "posAmount": 195000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xC6D0B071Be98B6Bd72E620219C2104705057fD36",
+    "posAmount": 3000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xa99ad19660382124E79764FbDF13256b1C4F548C",
+    "posAmount": 1000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x50B128243Bb117bc87866a63A7c5e7c919990042",
+    "posAmount": 40000,
+    "abcAmount": 935,
+    "vote": 4
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x9C4FF0fFb7D2C0aEFE7d7Fb3c3d2827aeE7c0813",
+    "posAmount": 13000,
+    "abcAmount": 392,
+    "vote": 2
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xF5211B9e417fFb4F683ef01db8feB75d9653e029",
+    "posAmount": 181000,
+    "abcAmount": 99,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xAC46aF70CFaA5b0296A00CDf1c884dBeeBDA8BBd",
+    "posAmount": 82000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x0C14f5Df7232b8788e998f76743691992a8Aa6C7",
+    "posAmount": 1000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x47EB34e3A72185E574BeE149Fc7EF2ae80F3258C",
+    "posAmount": 40000,
+    "abcAmount": 322,
+    "vote": 1
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xBa5b9A454Af1F39B3d087e491F303b615064850C",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xDe243e86C0967627a96adC9787562548Ed4D7991",
+    "posAmount": 23000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x142814dAE1fbF96983A353885a1827C95955BE78",
+    "posAmount": 19000,
+    "abcAmount": 20,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x8DbA4Ee911BBeD70CC7016d9DfCa16d85721Fba9",
+    "posAmount": 3000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x553AE14b21b283c6022F7073Cb4e037AC4e5ebAb",
+    "posAmount": 5000,
+    "abcAmount": 231,
+    "vote": 1
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x3475A3b8DD5d4e06531fc041840f3eEf7610F381",
+    "posAmount": 33000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xa73B43dee678EA4148ed825b1011E2fcFC637308",
+    "posAmount": 6000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x8508Cf4Bc3f222CAA37F806Bd38a2764999b1566",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x473140D3FB4f50c1272F46a905f1bE661B746d47",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xE4CF20B4831abfB6D876c6B2dD9d84133B688EC5",
+    "posAmount": 134000,
+    "abcAmount": 6,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x8080841e76693DE2E746c1a9F3Efd52e94CbF667",
+    "posAmount": 1000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x9Ebaa844CeECD8c29812eC27C00eB038fF478324",
+    "posAmount": 26000,
+    "abcAmount": 38,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x84071a1A7166F6bf09c60da06D5113553DB9c312",
+    "posAmount": 33000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x35dAD4cBeB4F0B5Ab1aC10d619fd3D92e1988241",
+    "posAmount": 22000,
+    "abcAmount": 960,
+    "vote": 4
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x0930F687b5784914a3cA0d0cC3000106d4Bd1CDa",
+    "posAmount": 10000,
+    "abcAmount": 443,
+    "vote": 2
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4f18F41d65345fbB8FDbA071974b1fa56b31EEaC",
+    "posAmount": 200000,
+    "abcAmount": 19981,
+    "vote": 40
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x63787A763b70552Def4c0c3A4c0473b388c7eF1b",
+    "posAmount": 10000,
+    "abcAmount": 408,
+    "vote": 2
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x55b6c2B853e281CE9653C8b44612cEA2f3a2601b",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xA3182b0bc292995146016ab30315426CCff10986",
+    "posAmount": 6000,
+    "abcAmount": 7,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2048C4547F788cf4a59F8bA7858c6CCDE45E070b",
+    "posAmount": 9000,
+    "abcAmount": 8,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4Fd7416C1EB8A1662641f4F9f250484BE260f422",
+    "posAmount": 3000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xaaF0006116E14838Eb6afdC25B44975d9927bE59",
+    "posAmount": 70000,
+    "abcAmount": 29,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4F2A1880472343082471Ec3577Ee93cd55BB0f03",
+    "posAmount": 20000,
+    "abcAmount": 7,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x80432db0c7405E2340c5d5Ebe524dD0c1b970B42",
+    "posAmount": 36000,
+    "abcAmount": 50,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x13F70c9a5C760647906f5F1ACE7C16Bf8be67582",
+    "posAmount": 238000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xD62fd268bD04c66951c818ADD4E3DD1CE6E93210",
+    "posAmount": 5000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x9b986364a1aAE965795B8fe5be916DecF23717cb",
+    "posAmount": 36000,
+    "abcAmount": 18,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xa4F79c01CA55F39377A7cF6f501a203d785539f0",
+    "posAmount": 24000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xbf95598b241a4ce991DaB34BB859F05824Fa8Bd3",
+    "posAmount": 95000,
+    "abcAmount": 38,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x9fe171d2621B623b289f20bfc085ea7BB5150A7A",
+    "posAmount": 100000,
+    "abcAmount": 40,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4271D22292aA37e13cD0C68b8210A7A6AF194407",
+    "posAmount": 24000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xfCaA337b3A6f5025E5fE6aBF7eD3A4c16F86F64E",
+    "posAmount": 16000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4b9334DAC1533D9Cc3559ee54CC9d887B7C2d608",
+    "posAmount": 16000,
+    "abcAmount": 17,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x723a1f79e87544c709Dc838d6DA42E59E99adcB4",
+    "posAmount": 2000,
+    "abcAmount": 211,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xD3510251957f9c7f9f828DBd729231Eb49B32831",
+    "posAmount": 5000,
+    "abcAmount": 189,
+    "vote": 1
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xdcB96109D5b759198fb86d86fF5588c0CF055742",
+    "posAmount": 192000,
+    "abcAmount": 9,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x7BD36b751662DD95eb2a9528323C07Dd6A3a5F5d",
+    "posAmount": 2000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x6fd662a99a0Cb8804B7241d5D7FCfd013fF7d3C1",
+    "posAmount": 10000,
+    "abcAmount": 14,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x1e330Dc5eb7DCA4aB04C1EA7524Ee5976C574a70",
+    "posAmount": 6000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xDa02D4Fe53fDFC716d89c75a1B41ee0690FEDFE8",
+    "posAmount": 3000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2087751b73B0EEAf3FB081fBb29BfcCA52F81b93",
+    "posAmount": 15000,
+    "abcAmount": 5,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x1Ac8B2F88a3D48486e3B486B41AC05ad0326dF23",
+    "posAmount": 8000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x6D484F301EF01f79740447c329189087C826e180",
+    "posAmount": 14000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x149F3fE7A7dFe1A465557f1d26065f3974162EcB",
+    "posAmount": 30000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x3BAE23516269a1ebC8004B5Fcc41c721276E1a67",
+    "posAmount": 105000,
+    "abcAmount": 42,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xF7C63543BaF2ad65bFAeb86C26D58b12C3fB3d5A",
+    "posAmount": 19000,
+    "abcAmount": 16,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x76cc3618d48C01f4c2780EF73268C328844b62fA",
+    "posAmount": 3000,
+    "abcAmount": 902,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x482f0f1453468168Fa527FeBb7Ad4A6F0796329d",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xfFe97C27aA0d044844E6AE46F89Ab1CBDf256f68",
+    "posAmount": 82000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x19794f54935B1b4Ebf359b06D8E833f414091731",
+    "posAmount": 23000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xb8a87432d2333C9D9BF1684dd749AB0073A95e63",
+    "posAmount": 6000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2247B89223729CC8dE8Fe3aDEAB1881b8188bA99",
+    "posAmount": 3000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x28d00857b0f2601eb580C3d03d1021F5c98D0456",
+    "posAmount": 25000,
+    "abcAmount": 235,
+    "vote": 1
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xEe9513cfd513686DB21F3CcEC8f9EE8a3B906c16",
+    "posAmount": 30000,
+    "abcAmount": 12,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x436Ed20be333c3472cEE206E69C3e1DDf5f60Acd",
+    "posAmount": 10000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x346bD79c70ce2cAF55C3EB068Ed962a9183304a9",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x3EBcEC39889A806C1Bf7d4078B6b593E1269A689",
+    "posAmount": 3000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x64F569a390bb10B39aE2016f1c54a94aAE0aeeb4",
+    "posAmount": 8000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x437Da888B05429a93E239a009fdA4CD98e4c7FcB",
+    "posAmount": 5000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xe775b4354F7E16b5d9018FfCE943d7e3f59E05bD",
+    "posAmount": 9000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xd6127C80aDc1763D1221bA668cC3b0E7E0Aad7B3",
+    "posAmount": 100000,
+    "abcAmount": 5,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xBD434d4C35A11d263A24895f9972A095e066918C",
+    "posAmount": 80000,
+    "abcAmount": 172,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x92F2a9a560A2A05fD3A51D25B67b26D9E3DCA5D9",
+    "posAmount": 1000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x0d52B8D626DA1AA4F4353a2b931F7936f5568731",
+    "posAmount": 109000,
+    "abcAmount": 11,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x1978D1B2692166e70c937F1da73D1E9584f51Ee2",
+    "posAmount": 21000,
+    "abcAmount": 2008,
+    "vote": 4
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x488DF6Fd990D3B0bffE721Ba27A1E3514260CE8c",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x47dC4bA304E65AcA4096AC6e1009a12c075e1Ec1",
+    "posAmount": 407000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x41Fc09F6c88f5edf50858Fedcaa5AD1CCC884ef8",
+    "posAmount": 26000,
+    "abcAmount": 228,
+    "vote": 1
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x330E5Af6051eC7e6010C39e4dAb32517F409822a",
+    "posAmount": 92000,
+    "abcAmount": 10,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xea7e01aDB644fc576A5064451e6f4cC17603C66d",
+    "posAmount": 54000,
+    "abcAmount": 16,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4f488189B3A20A35FC67a0a0C1Ca5eFc687c78bb",
+    "posAmount": 6000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xd5947FbC778a54fE5AA343d4a504168eD7D32f17",
+    "posAmount": 32000,
+    "abcAmount": 36,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4717762C94ff03c4F27852f8ba19719B9c7C47EF",
+    "posAmount": 13000,
+    "abcAmount": 16,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x05ECedB1af7090e43B410539e99382172620D617",
+    "posAmount": 3000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x7758ec2e2B69932D4c021C91436C8AbBcbb2a7FF",
+    "posAmount": 1000,
+    "abcAmount": 17,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x400E080e5c8E135C10365443bCE74efd42e611dC",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x595cc4DA82b63b5Cdb47F262815E53ed537F28C3",
+    "posAmount": 59000,
+    "abcAmount": 86,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xFb929Ea7606c209B4Eefeb6a51Ea1951A7584A46",
+    "posAmount": 10000,
+    "abcAmount": 58,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x9C1e4aEF505aD65896182351368fb9041EbB4c5B",
+    "posAmount": 143000,
+    "abcAmount": 7,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x7D219d756d8c4cb19E238e5eB82FF80C768166da",
+    "posAmount": 124000,
+    "abcAmount": 37,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x0e249CCeFA959DB79bA24BC002AF2F43e0bcAA17",
+    "posAmount": 197000,
+    "abcAmount": 10,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xC08f6C10f3017B2D60977f6B73f3D5023f6c6614",
+    "posAmount": 4000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xD34c118b5eFde16C9Df17E4806514238E6928752",
+    "posAmount": 3000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x96E775adF1074333195AaC274e22d9B2149BECD4",
+    "posAmount": 16000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x01697B5d7cD872FEf4b72f5c217B3487D1D17cBf",
+    "posAmount": 10000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x70c030145a78905f62D4008AD9cCfF5C4367a78f",
+    "posAmount": 10000,
+    "abcAmount": 620,
+    "vote": 2
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2468fE5a165c8E3C4f5a5f1d61E223ea8E354673",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x6722627ABfB2cF2f839DcFCC9e0498B84d71476e",
+    "posAmount": 7000,
+    "abcAmount": 5,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x065598b1e5e694C74d1eA3ac5D7739c4c324583F",
+    "posAmount": 3000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x6499697FbCBd617c788B0be7D9bd69dC95c66305",
+    "posAmount": 277000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x9858Cd034B4CbFF0e4F5163c7754Ce24CCaff413",
+    "posAmount": 41000,
+    "abcAmount": 33,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xFf8cCFC3aA019FB666b07a89f353888ab3D83c7e",
+    "posAmount": 1000,
+    "abcAmount": 216,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x379d24c63Ba89C98B4A5b2D39631c163F37E5D68",
+    "posAmount": 11000,
+    "abcAmount": 16,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xE48d567a08a1ADC5DF86874e516eD142A3B7dadE",
+    "posAmount": 5000,
+    "abcAmount": 235,
+    "vote": 1
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x91d6E3810A86a35DBAf1BD3Bb6860112F7E6363c",
+    "posAmount": 19000,
+    "abcAmount": 6,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xBc96D785507d1F219D200a7FED852ca2e1610268",
+    "posAmount": 10000,
+    "abcAmount": 7,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x0E44BE4bA97ed77936735a7e99aF399C26d42980",
+    "posAmount": 93000,
+    "abcAmount": 9,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x06D82F50b8aE7aA2904D15FeAedd308a70a11a2a",
+    "posAmount": 2000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xa2e7CB130694Bf9fed5a3928F14e24499b3caAEA",
+    "posAmount": 23000,
+    "abcAmount": 389,
+    "vote": 2
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x8E9e61ea4885230f79e1740FAFb4DA06c23eB6Af",
+    "posAmount": 460000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x66d877F59B77b8E0bf6e014d94c2a7dD141ba0C8",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xCCfddfBe7b7aAca4Dc7F07D5BbD882B9dae5557F",
+    "posAmount": 23000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x5F547f71a2bDfC15dD4a08b4c7d60E2efE5bC7FF",
+    "posAmount": 110000,
+    "abcAmount": 240,
+    "vote": 1
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xf00ee20de461fc45095187605c9736Dc3A698823",
+    "posAmount": 709000,
+    "abcAmount": 111,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x6168098940E455703f88dB36868fB15A6d685f5c",
+    "posAmount": 16000,
+    "abcAmount": 20,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x330DC54Bb1eaA7119D6612e704b96D9340C65D09",
+    "posAmount": 13000,
+    "abcAmount": 9,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xEd7c351C1BF53534841191EC0EaB8769Dd4AE152",
+    "posAmount": 9000,
+    "abcAmount": 21,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x8b0885A1a520a11DAab59FEBcBA271e67CeDa6bd",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x690c93CdD66fc2C50871c52Ea8DAe9503BbB8663",
+    "posAmount": 26000,
+    "abcAmount": 6,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xfdDA8c1B030be1bD94dE14cf350aF498bcfE094b",
+    "posAmount": 2000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x8D5F3F8EC7598d4443ECa25a1EEFDD36217ad91f",
+    "posAmount": 80000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xf66498cab36Efaa4b65D03B1778e20a3C86305ce",
+    "posAmount": 12000,
+    "abcAmount": 206,
+    "vote": 1
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x0D8d7aa248a5999d4E160fE4624CB586e2331702",
+    "posAmount": 50000,
+    "abcAmount": 10,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x802da210A04D2Ac6Af55336DD79b757E8cf12983",
+    "posAmount": 66000,
+    "abcAmount": 24,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x3993DD385558D19CE78Bb4F137D8cd2eB210C1C5",
+    "posAmount": 4000,
+    "abcAmount": 6,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xD6B9710655D72eaEE2e0bd05cC3b6AB4964C1c45",
+    "posAmount": 10000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x693176cfffa2aAe93B0F3b9d279772D44232bf8d",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x8f1Ee4D0c379a603ed2De65D4b43d312e4C039d4",
+    "posAmount": 22000,
+    "abcAmount": 34,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xc070C7c05Ddc4f1e8048F8a38E66317cC035feEB",
+    "posAmount": 50000,
+    "abcAmount": 2024,
+    "vote": 10
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xCa4926A2A8c536F334aD06274508e901EAA20eDF",
+    "posAmount": 10000,
+    "abcAmount": 378,
+    "vote": 2
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xd8915845395af3cF290eFdE154097F7a9f3488f0",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4a4D229aBaBf40D2D1b86eae452EfB8c14F7e337",
+    "posAmount": 2000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x949f18Ca4dE3aaf2E3b8D80fd5F0D841DD5a7da9",
+    "posAmount": 10000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x5CEf5f41f46ae7CA184B05a6e8226BbdEe20e213",
+    "posAmount": 2000,
+    "abcAmount": 10,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4570d31A950c1224B153E0304aF59553196ce0f9",
+    "posAmount": 100000,
+    "abcAmount": 2100,
+    "vote": 11
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x608749A27124E780eE71AaeF0738F4b1d457A2c4",
+    "posAmount": 1000,
+    "abcAmount": 7,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x1626D0d7C367A62c4A2e3854408aB93aDDa3d22a",
+    "posAmount": 40000,
+    "abcAmount": 9,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4327B3e5a0d2026f483F1B503744BD6564a4d24e",
+    "posAmount": 121000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2fB2b057EBf3BB4989DF5F2d72b4285b696f9239",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xCB9892baeA4b3BD8A27e0CB95A4473858DF16f8c",
+    "posAmount": 1000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x68a6D8BE9F77B021841eB7Dee2789593f0d1C4Ff",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x06d68602B3A6F32150857F03d9B5E360f4610051",
+    "posAmount": 3000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x162F15D05a238479923bDd55ef90921A47035f1A",
+    "posAmount": 3000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x96Ef0bcE21837A3Ed743F5E687F2d4D232936d15",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xf3801Bf0088450FB2E3E32BbDC3575Af8428D25B",
+    "posAmount": 3000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xdd0E7333192f5CeEf772FB8078235df75Ae02e7d",
+    "posAmount": 3000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xFEffDC7cEeD38cbdd8E3036d004bD4E9DE9D7d31",
+    "posAmount": 6000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xB429f193640a6758585B8F539ECabe3316F17eBD",
+    "posAmount": 21000,
+    "abcAmount": 8,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xC18616FCf0ED4a9F222158165d6BCd308Aa8Cfb4",
+    "posAmount": 1000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x7dc296ddBD7AF81b80A05428B05fc5B2D565B178",
+    "posAmount": 50000,
+    "abcAmount": 10,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x964A2265B11270Cac1653CEb1A2D690f1c511367",
+    "posAmount": 4000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x62A1D6022ddDa3Cc614B096c06031f5cbA721b01",
+    "posAmount": 11000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xDcf203209a596821e88f1F60749214B175D6a66A",
+    "posAmount": 19000,
+    "abcAmount": 10,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xB6093a99E205aA76484Ab6b8145735E1BBe5CD44",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2a7B587Db5d60A480A6422C9C0766Af30634eed1",
+    "posAmount": 50000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x36C3350271695FA86e0Bd7249e0e8e56eE2b87AC",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xBF69266aef03Eb78Ca5244b373cc57307deA102f",
+    "posAmount": 12000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2e9011c8804177f0fE80F5483718883CFFfD751b",
+    "posAmount": 9000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x3C77795f5dC3dEbE3BABb3e0a65De3bB503c92ED",
+    "posAmount": 20000,
+    "abcAmount": 7,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x7D9Ea8120Ec957E36A52125392ED5B660D564790",
+    "posAmount": 11000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x1A5E9aa53A0a736B089046A690B8B780F10A0C2D",
+    "posAmount": 4000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x4F4f52D566f6C5BC02941957CE25B6144D0c9444",
+    "posAmount": 180000,
+    "abcAmount": 63,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x3124E073163b98E681cb9ea0F934B3A136b7A966",
+    "posAmount": 30000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x5F73795A82120dDcaec55454F89dA840B7f0ae7A",
+    "posAmount": 10000,
+    "abcAmount": 3,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xBE2d6158aAa5c407FDD16d6340b00fc3ce523c15",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x56bE61e17Bf4389b0279a1cCDAdEAf3eC085CC19",
+    "posAmount": 20000,
+    "abcAmount": 8,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x9c6f61adfB37f549c1aDe24a613CC420782fFA1d",
+    "posAmount": 4000,
+    "abcAmount": 4,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2C987467D1c717889e6e51229e98E991E2B94c90",
+    "posAmount": 32000,
+    "abcAmount": 7,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x95E8bC5648175512f9b400053B536568d8Ff6C30",
+    "posAmount": 2000,
+    "abcAmount": 13,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x7052F31dB28986E8c05d727558016e4E8Cf07C19",
+    "posAmount": 215000,
+    "abcAmount": 64,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xaC8E62E7dFd59D55eEc1CfC834c78Cc92d19456F",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xE5AD07945fDCBB3100660cDE63ae6d02cf620996",
+    "posAmount": 1000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x97F4F989b352e64B2546198EC6A37313ED9Ca12a",
+    "posAmount": 4000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x3F47b970b372884c4eBFfa13E37C2414c80e8Ad9",
+    "posAmount": 83000,
+    "abcAmount": 14,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x71B704Ef64D528D476F94E849B6F6EfE35267167",
+    "posAmount": 60000,
+    "abcAmount": 24,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x11a447d94aD3bd3Ad45f7313F300442993812e00",
+    "posAmount": 28000,
+    "abcAmount": 30,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x9552eBCa9B1c22c714523a5a1968Ac261F5E6c26",
+    "posAmount": 10000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x61b509f217443770C514f1F37429633918287747",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x8A2B263C52096506b1406748FdFE1386E7B1cd1C",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x30297fdceBe428265C65D55266925580472F43F1",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x432B0EdE9Fdfd7317d3d4F29747c00c206e78cae",
+    "posAmount": 1000,
+    "abcAmount": 18,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xC9f7f3d5cc27fe29B2a98de4F8c0fF931d791A08",
+    "posAmount": 95000,
+    "abcAmount": 9,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x534f2f26CEe41c19409e8caCb553D7d84bB59c5a",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x743FFb7cE7587324a773BB79E545dC8A520339ef",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x481Ca0313BBcf5340056b35A5Dd93a8704c3b192",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xB73B54C0ACd628B7CCb95Ec082321ed1f7b4507f",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xdd288Fd7CE06ce711e8cEce6dA7a1bD442d7533c",
+    "posAmount": 91000,
+    "abcAmount": 381,
+    "vote": 2
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xfeD14BBE4260dB2031163506e7618A719E4edA99",
+    "posAmount": 19000,
+    "abcAmount": 6,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xD908891b804Dfa0a7f4fbecFb2AF3e24D00A36f4",
+    "posAmount": 51000,
+    "abcAmount": 131,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x5e9c3068F3573ADAeb62838295dE8614ADD7924d",
+    "posAmount": 4000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x449d7B9EE86049ffDc923E84e67863547B071B04",
+    "posAmount": 19000,
+    "abcAmount": 17,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xE18035c629913a8772b56764B0661b31805c6FA5",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2a7047A846961DC9894608feD35f5148bAeA61f3",
+    "posAmount": 3000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xf5d2D22159c6738FC233d08e0ab5C40826Df7c48",
+    "posAmount": 8000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xc8406E256C67c7cAd948EE107Ec7580b41a212a3",
+    "posAmount": 15000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x05cb0C0756FC14E6fCf27ba2fe51776597F13b9e",
+    "posAmount": 5000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xaba80c97308924718392D9300467F7DE5fa72cbD",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x6a14be1a0F9cb385f709f84B0CA8A23E4Bc7979d",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x6D8be436Fb92eed7FE22c9706B962Bb71840dD10",
+    "posAmount": 13000,
+    "abcAmount": 164,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xDACa3FbA0a4E32d6772D850306B71C013077a2f3",
+    "posAmount": 61000,
+    "abcAmount": 15,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x702e74527aC565524b10Cc7A641Bb1Ac21697D3F",
+    "posAmount": 44000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xE3Fe4Ad236DdC515285B25488F707B1AED8A8b5c",
+    "posAmount": 20000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xcB13798C42d11366F3fA1573C92db0dcD47E76A4",
+    "posAmount": 4000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x19f48e2B568313bcA152B885C4fA089623D1EFAA",
+    "posAmount": 4000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x49123bE25e6e7e035031736E938FD18fE417cbbf",
+    "posAmount": 360000,
+    "abcAmount": 90,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xE1153a169A91668b2E7361a22468B5dc8fa16B15",
+    "posAmount": 4000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x45a254fC45833e9ECBf01479494df6abb3894316",
+    "posAmount": 283000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xe3D9BC8cFb9f142247341f89c3D02cc478d2E04F",
+    "posAmount": 4000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x261c1dd74DeD3DE82e8ce084192c6fE86e6593b2",
+    "posAmount": 195000,
+    "abcAmount": 148,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x61B1Fb9719698bA68b8de9A9f23bAc6C5c8eA784",
+    "posAmount": 4000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x45447aCD33D1621DD55d5bF7A4f8db80E06D5091",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x729eb4b8d3a8CF1a333172DBbA1fCc786263d3Cf",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x67fEc5a9835e2d630C4BcD5a998BB1Cf99592C8e",
+    "posAmount": 68000,
+    "abcAmount": 10,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x9888A6b952E282471fE248fd63A7bEF5115359fD",
+    "posAmount": 3000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x146C4AE6b101950d0ca99FeE825ce4D6165D6f41",
+    "posAmount": 10000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xcc5ae77f5d0d9BD391F25B66F2921c9e75BEA439",
+    "posAmount": 24000,
+    "abcAmount": 5,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xD2C55D8cdBaD64534c9a648751dA079731a69d47",
+    "posAmount": 25000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x21897EeCf7b770a692BE88692769331006fbCFbc",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x228aEFB100AB3c879c73cAB0fAd518ac0fe83B6B",
+    "posAmount": 203000,
+    "abcAmount": 40,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x48b86706D29a9A79525E1A5E3b0cF191be0d86CC",
+    "posAmount": 83000,
+    "abcAmount": 16,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x715cF2cD589e757A670909131744F209D82C66c8",
+    "posAmount": 8000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xA6c63b6B0c4C8Bcd7927A2eE387062Ed669ef3F3",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xe9c81D5025e472d7Ad3Be03889b4518f6fD396BE",
+    "posAmount": 45000,
+    "abcAmount": 7,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x2efBaAf135041e221542e709951cb6C90C558689",
+    "posAmount": 14000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xb5489BF80a29756F0f0b6613B2b08E62b1758DBf",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xf3946079e2E0Dc924150A3B42ce87C0842E75dA4",
+    "posAmount": 3000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x11d0cD91c85605e3fAc33C188a775EE6ECc7d445",
+    "posAmount": 443000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x754Edb73804475e20E16B4931b99ac708823a75A",
+    "posAmount": 10000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xD0F6741F7b10455992dE24d318b8eB7296993139",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x335405C20FB00aD5403c2E12690331A49E36D5a5",
+    "posAmount": 3000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x18A66D100AC4efa3E9dB3040244FBCc636dBAF0b",
+    "posAmount": 50000,
+    "abcAmount": 10,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xb0e0e8Fb1B179d899a8E35115e4AF359De1E2b96",
+    "posAmount": 10000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x111DCA829F60dCe09B0e3fcd5c3AEebc63aC8947",
+    "posAmount": 50000,
+    "abcAmount": 7,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x27C5945296379C784a69f6e03FC502907a049506",
+    "posAmount": 140000,
+    "abcAmount": 28,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x627828dc9e771eC7088122d486b4e83AB32BE17D",
+    "posAmount": 2000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xA5034Da7507684D94cFC60E94dddeDb1791D857E",
+    "posAmount": 70000,
+    "abcAmount": 657,
+    "vote": 3
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x15E219631D411363012aB1Bd59b063094aE3Ea60",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xFBdAb362B24dB1E9E7ecbA69dd19E136e712F77e",
+    "posAmount": 1000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x54146B7cd50Ddd40f95Ff0B46cc90f91bECa29D1",
+    "posAmount": 10000,
+    "abcAmount": 2,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xdbe425F0A4561811c670CA9F3Ec69fA3C51AE433",
+    "posAmount": 6000,
+    "abcAmount": 82,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0xb832e156C1F3Dd8379c707383A4C45D81a5ADaa3",
+    "posAmount": 10000,
+    "abcAmount": 1,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x0A0D2C06020494778466C8a3F0E7b2f4bD970529",
+    "posAmount": 47000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x8833eF45345175235F7633b902b03D01fCcbF6C2",
+    "posAmount": 19000,
+    "abcAmount": 0,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x7139051B857cF0fBF5ab461142cc18234F42DfEd",
+    "posAmount": 114000,
+    "abcAmount": 5,
+    "vote": 0
+  },
+  {
+    "snapshotDate": "20260204",
+    "espaceAddr": "0x3C5a5500452B8f0630674B33991Fe961c625E3dc",
+    "posAmount": 53000,
+    "abcAmount": 0,
+    "vote": 0
   }
 ]
