@@ -19,9 +19,11 @@ export interface TeslaSnapshot {
 }
 
 // Dynamic imports for JSON data
+const BASE_URL = import.meta.env.BASE_URL || '/'
+
 export async function loadPoolStats(): Promise<PoolStats[]> {
   try {
-    const response = await fetch('./data/poolStats.json')
+    const response = await fetch(`${BASE_URL}data/poolStats.json`)
     if (!response.ok) {
       console.warn('Could not load poolStats.json, using empty array')
       return []
@@ -35,7 +37,7 @@ export async function loadPoolStats(): Promise<PoolStats[]> {
 
 export async function loadTeslaSnapshot(): Promise<TeslaSnapshot[]> {
   try {
-    const response = await fetch('./data/teslaSnapshot.json')
+    const response = await fetch(`${BASE_URL}data/teslaSnapshot.json`)
     if (!response.ok) {
       console.warn('Could not load teslaSnapshot.json, using empty array')
       return []
