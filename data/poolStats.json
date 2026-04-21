@@ -1606,5 +1606,29 @@
     "version": "v2",
     "stakerNumber": 250,
     "totalPOS": 11203
+  },
+  {
+    "snapshotDate": "20260421",
+    "epochNumber": 145817346,
+    "chain": "core",
+    "version": "v1",
+    "stakerNumber": 715,
+    "totalPOS": 96585
+  },
+  {
+    "snapshotDate": "20260421",
+    "epochNumber": 145817345,
+    "chain": "espace",
+    "version": "v1",
+    "stakerNumber": 232,
+    "totalPOS": 11116
+  },
+  {
+    "snapshotDate": "20260421",
+    "epochNumber": 145817346,
+    "chain": "espace",
+    "version": "v2",
+    "stakerNumber": 250,
+    "totalPOS": 11111
   }
 ]
